@@ -1,5 +1,5 @@
 import streamlit as st
-import leafmap.foliumap as leafmap
+import folium
 import pickle
 import pandas as pd
 import subprocess
