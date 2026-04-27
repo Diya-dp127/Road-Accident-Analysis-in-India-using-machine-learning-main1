@@ -5,3 +5,7 @@ seaborn
 xgboost
 scikit-learn
 leafmap
+streamlit
+leafmap
+folium
+streamlit-option-menu
